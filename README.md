@@ -6,7 +6,7 @@ This project was built as a foundational bioinformatics scripting exercise to de
 
 ---
 
-## 🧬 Features
+##  Features
 
 - Parses multi-sequence FASTA files
 - Calculates:
@@ -19,7 +19,7 @@ This project was built as a foundational bioinformatics scripting exercise to de
 
 ---
 
-## 📂 Example FASTA Input
+##  Example FASTA Input
 
 seq1
 ATGCGTACGTAGCTAGCTAG
@@ -30,7 +30,7 @@ ATATATATATATATATATA
 
 ---
 
-## 📊 Example Output
+##  Example Output
 Total sequences: 3
 Average length: 19.33
 Longest sequence: 20
@@ -39,7 +39,7 @@ Overall GC content: 39.47%
 
 ---
 
-## 🚀 How To Run
+##  How To Run
 
 Clone the repository:
 
