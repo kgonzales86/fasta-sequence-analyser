@@ -11,7 +11,7 @@ This project was built as a foundational bioinformatics scripting exercise to de
 - Parses multi-sequence FASTA files
 - Calculates:
   - Total number of sequences
-  - Average sequence length
+  - Average sequence lengths
   - Longest sequence
   - Shortest sequence
   - Average GC content
